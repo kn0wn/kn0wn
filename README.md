@@ -1,2 +1,3 @@
-[![kn0wn's github stats](https://github-readme-stats.vercel.app/api?username=kn0wn&show_icons=true&hide=issues&bg_color=0D1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kn0wn&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=fffff9&icon_color=58a6ff&title_color=58a6ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### Hello 👋
+
+[joshking.dev](https://joshking.dev)
